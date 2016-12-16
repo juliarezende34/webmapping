@@ -1,11 +1,9 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
-      "properties": {
-        "nome": "Amparo de S\u00e3o Francisco",
-        "id": 54538
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -137,17 +135,17 @@
               -10.12126892599997
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54538,
+        "nome": "Amparo de S\u00e3o Francisco"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Aquidab\u00e3",
-        "id": 54539
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -1647,17 +1645,17 @@
               -10.18100207599997
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54539,
+        "nome": "Aquidab\u00e3"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Aracaju",
-        "id": 54540
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -2269,17 +2267,17 @@
               -10.862379200999953
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54540,
+        "nome": "Aracaju"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Arau\u00e1",
-        "id": 54541
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -2607,17 +2605,17 @@
               -11.170753078999951
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54541,
+        "nome": "Arau\u00e1"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Areia Branca",
-        "id": 54542
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -3285,17 +3283,17 @@
               -10.723510816999976
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54542,
+        "nome": "Areia Branca"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Barra dos Coqueiros",
-        "id": 54543
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -4211,17 +4209,17 @@
               -10.742183151999939
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54543,
+        "nome": "Barra dos Coqueiros"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Boquim",
-        "id": 54544
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -4409,17 +4407,17 @@
               -11.000435898999967
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54544,
+        "nome": "Boquim"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Brejo Grande",
-        "id": 54545
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -4707,17 +4705,17 @@
               -10.415458009999952
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54545,
+        "nome": "Brejo Grande"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Campo do Brito",
-        "id": 54546
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -6457,17 +6455,17 @@
               -10.68086976199993
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54546,
+        "nome": "Campo do Brito"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Canhoba",
-        "id": 54547
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -6935,17 +6933,17 @@
               -10.073963014999947
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54547,
+        "nome": "Canhoba"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Canind\u00e9 de S\u00e3o Francisco",
-        "id": 54548
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -10477,17 +10475,17 @@
               -9.515936236999949
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54548,
+        "nome": "Canind\u00e9 de S\u00e3o Francisco"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Capela",
-        "id": 54549
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -13475,17 +13473,17 @@
               -10.326255398999933
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54549,
+        "nome": "Capela"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Carira",
-        "id": 54550
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -15453,17 +15451,17 @@
               -10.19409970199996
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54550,
+        "nome": "Carira"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Carm\u00f3polis",
-        "id": 54551
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -15915,17 +15913,17 @@
               -10.635065045999966
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54551,
+        "nome": "Carm\u00f3polis"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Cedro de S\u00e3o Jo\u00e3o",
-        "id": 54552
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -16145,17 +16143,17 @@
               -10.223901381999951
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54552,
+        "nome": "Cedro de S\u00e3o Jo\u00e3o"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Cristin\u00e1polis",
-        "id": 54553
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -18079,17 +18077,17 @@
               -11.401439405999952
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54553,
+        "nome": "Cristin\u00e1polis"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Cumbe",
-        "id": 54554
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -19777,17 +19775,17 @@
               -10.238384147999966
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54554,
+        "nome": "Cumbe"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Divina Pastora",
-        "id": 54555
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -20671,17 +20669,17 @@
               -10.625484984999957
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54555,
+        "nome": "Divina Pastora"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Est\u00e2ncia",
-        "id": 54556
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -21977,17 +21975,17 @@
               -11.054665942999975
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54556,
+        "nome": "Est\u00e2ncia"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Feira Nova",
-        "id": 54557
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -23275,17 +23273,17 @@
               -10.23766815099998
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54557,
+        "nome": "Feira Nova"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Frei Paulo",
-        "id": 54558
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -23409,17 +23407,17 @@
               -10.444063522999954
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54558,
+        "nome": "Frei Paulo"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Gararu",
-        "id": 54559
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -26575,17 +26573,17 @@
               -9.897948584999938
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54559,
+        "nome": "Gararu"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "General Maynard",
-        "id": 54560
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -26801,17 +26799,17 @@
               -10.681753963999938
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54560,
+        "nome": "General Maynard"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Gracho Cardoso",
-        "id": 54561
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -28347,17 +28345,17 @@
               -10.136115640999947
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54561,
+        "nome": "Gracho Cardoso"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Ilha das Flores",
-        "id": 54562
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -28941,17 +28939,17 @@
               -10.422735060999969
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54562,
+        "nome": "Ilha das Flores"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Indiaroba",
-        "id": 54563
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -30143,17 +30141,17 @@
               -11.407861629999957
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54563,
+        "nome": "Indiaroba"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Itabaiana",
-        "id": 54564
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -31225,17 +31223,17 @@
               -10.570724352999946
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54564,
+        "nome": "Itabaiana"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Itabaianinha",
-        "id": 54565
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -31999,17 +31997,17 @@
               -11.148914613999978
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54565,
+        "nome": "Itabaianinha"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Itabi",
-        "id": 54566
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -33333,17 +33331,17 @@
               -10.026081013999942
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54566,
+        "nome": "Itabi"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Itaporanga D'ajuda",
-        "id": 54567
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -35455,17 +35453,17 @@
               -10.826853282999934
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54567,
+        "nome": "Itaporanga D'ajuda"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Japaratuba",
-        "id": 54568
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -36345,17 +36343,17 @@
               -10.398520617999964
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54568,
+        "nome": "Japaratuba"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Japoat\u00e3",
-        "id": 54569
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -37387,17 +37385,17 @@
               -10.286803203999966
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54569,
+        "nome": "Japoat\u00e3"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Lagarto",
-        "id": 54570
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -40425,17 +40423,17 @@
               -10.69629301599997
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54570,
+        "nome": "Lagarto"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Laranjeiras",
-        "id": 54571
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -41211,17 +41209,17 @@
               -10.752383666999947
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54571,
+        "nome": "Laranjeiras"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Macambira",
-        "id": 54572
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -42209,17 +42207,17 @@
               -10.606554596999956
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54572,
+        "nome": "Macambira"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Malhada dos Bois",
-        "id": 54573
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -42303,17 +42301,17 @@
               -10.306690037999942
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54573,
+        "nome": "Malhada dos Bois"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Malhador",
-        "id": 54574
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -43281,17 +43279,17 @@
               -10.610869236999974
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54574,
+        "nome": "Malhador"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Maruim",
-        "id": 54575
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -44139,17 +44137,17 @@
               -10.656342305999942
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54575,
+        "nome": "Maruim"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Moita Bonita",
-        "id": 54576
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -45241,17 +45239,17 @@
               -10.539961733999974
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54576,
+        "nome": "Moita Bonita"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Monte Alegre de Sergipe",
-        "id": 54577
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -48939,17 +48937,17 @@
               -9.998432401999935
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54577,
+        "nome": "Monte Alegre de Sergipe"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Muribeca",
-        "id": 54578
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -50777,17 +50775,17 @@
               -10.336887730999933
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54578,
+        "nome": "Muribeca"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Ne\u00f3polis",
-        "id": 54579
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -52003,17 +52001,17 @@
               -10.255674734999957
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54579,
+        "nome": "Ne\u00f3polis"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Nossa Senhora Aparecida",
-        "id": 54580
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -53581,17 +53579,17 @@
               -10.241505875999962
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54580,
+        "nome": "Nossa Senhora Aparecida"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Nossa Senhora da Gl\u00f3ria",
-        "id": 54581
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -57843,17 +57841,17 @@
               -10.062438871999973
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54581,
+        "nome": "Nossa Senhora da Gl\u00f3ria"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Nossa Senhora das Dores",
-        "id": 54582
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -59849,17 +59847,17 @@
               -10.297996032999947
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54582,
+        "nome": "Nossa Senhora das Dores"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Nossa Senhora de Lourdes",
-        "id": 54583
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -60207,17 +60205,17 @@
               -10.024588336999955
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54583,
+        "nome": "Nossa Senhora de Lourdes"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Nossa Senhora do Socorro",
-        "id": 54584
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -61293,17 +61291,17 @@
               -10.81861736899998
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54584,
+        "nome": "Nossa Senhora do Socorro"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Pacatuba",
-        "id": 54585
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -61703,17 +61701,17 @@
               -10.399978512999951
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54585,
+        "nome": "Pacatuba"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Pedra Mole",
-        "id": 54586
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -62573,17 +62571,17 @@
               -10.553874562999965
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54586,
+        "nome": "Pedra Mole"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Pedrinhas",
-        "id": 54587
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -62695,17 +62693,17 @@
               -11.179668474999971
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54587,
+        "nome": "Pedrinhas"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Pinh\u00e3o",
-        "id": 54588
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -64013,17 +64011,17 @@
               -10.507101743999954
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54588,
+        "nome": "Pinh\u00e3o"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Pirambu",
-        "id": 54589
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -64731,17 +64729,17 @@
               -10.574690804999932
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54589,
+        "nome": "Pirambu"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Po\u00e7o Redondo",
-        "id": 54590
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -66953,17 +66951,17 @@
               -9.666557244999979
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54590,
+        "nome": "Po\u00e7o Redondo"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Po\u00e7o Verde",
-        "id": 54591
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -69731,17 +69729,17 @@
               -10.696772360999944
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54591,
+        "nome": "Po\u00e7o Verde"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Porto da Folha",
-        "id": 54592
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -72249,17 +72247,17 @@
               -9.747784835999937
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54592,
+        "nome": "Porto da Folha"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Propri\u00e1",
-        "id": 54593
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -72899,17 +72897,17 @@
               -10.176532719999955
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54593,
+        "nome": "Propri\u00e1"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Riach\u00e3o do Dantas",
-        "id": 54594
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -74245,17 +74243,17 @@
               -10.868691355999943
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54594,
+        "nome": "Riach\u00e3o do Dantas"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Riachuelo",
-        "id": 54595
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -75099,17 +75097,17 @@
               -10.67461913699998
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54595,
+        "nome": "Riachuelo"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Ribeir\u00f3polis",
-        "id": 54596
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -75613,17 +75611,17 @@
               -10.41660474799994
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54596,
+        "nome": "Ribeir\u00f3polis"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Ros\u00e1rio do Catete",
-        "id": 54597
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -76503,17 +76501,17 @@
               -10.62150616599996
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54597,
+        "nome": "Ros\u00e1rio do Catete"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Salgado",
-        "id": 54598
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -76869,17 +76867,17 @@
               -10.965232604999926
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54598,
+        "nome": "Salgado"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Santa Luzia do Itanhy",
-        "id": 54599
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -77899,17 +77897,17 @@
               -11.340788375999978
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54599,
+        "nome": "Santa Luzia do Itanhy"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Santana do S\u00e3o Francisco",
-        "id": 54600
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -78033,17 +78031,17 @@
               -10.250738833999947
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54600,
+        "nome": "Santana do S\u00e3o Francisco"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Santa Rosa de Lima",
-        "id": 54601
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -78643,17 +78641,17 @@
               -10.586563987999966
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54601,
+        "nome": "Santa Rosa de Lima"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Santo Amaro das Brotas",
-        "id": 54602
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -80209,17 +80207,17 @@
               -10.680060199999957
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54602,
+        "nome": "Santo Amaro das Brotas"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "S\u00e3o Crist\u00f3v\u00e3o",
-        "id": 54603
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -81711,17 +81709,17 @@
               -10.845053418999953
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54603,
+        "nome": "S\u00e3o Crist\u00f3v\u00e3o"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "S\u00e3o Domingos",
-        "id": 54604
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -83141,17 +83139,17 @@
               -10.695308052999962
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54604,
+        "nome": "S\u00e3o Domingos"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "S\u00e3o Francisco",
-        "id": 54605
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -83755,17 +83753,17 @@
               -10.263613715999952
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54605,
+        "nome": "S\u00e3o Francisco"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "S\u00e3o Miguel do Aleixo",
-        "id": 54606
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -85169,17 +85167,17 @@
               -10.255516169999964
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54606,
+        "nome": "S\u00e3o Miguel do Aleixo"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Sim\u00e3o Dias",
-        "id": 54607
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -86591,17 +86589,17 @@
               -10.585611333999964
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54607,
+        "nome": "Sim\u00e3o Dias"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Siriri",
-        "id": 54608
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -87437,17 +87435,17 @@
               -10.47067608499998
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54608,
+        "nome": "Siriri"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Telha",
-        "id": 54609
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -87659,17 +87657,17 @@
               -10.14234879199995
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54609,
+        "nome": "Telha"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Tobias Barreto",
-        "id": 54610
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -90501,17 +90499,17 @@
               -10.815435142999945
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54610,
+        "nome": "Tobias Barreto"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Tomar do Geru",
-        "id": 54611
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -92639,17 +92637,17 @@
               -11.257821963999959
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54611,
+        "nome": "Tomar do Geru"
       },
       "type": "Feature"
     },
     {
-      "properties": {
-        "nome": "Umba\u00faba",
-        "id": 54612
-      },
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -92897,11 +92895,13 @@
               -11.388378521999925
             ]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "id": 54612,
+        "nome": "Umba\u00faba"
       },
       "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
